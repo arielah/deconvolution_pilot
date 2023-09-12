@@ -13,11 +13,11 @@ theme_set(theme_bw() +
             )
           )
 
-demultiplexing_colors <- c("red" = "#CA0020",
-                           "blue" = "#0571B0",
-                           "green" = "#4DAC26",
-                           "orange" = "#E66101",
-                           "gray" = "#999999") #ggsci D3?
+demultiplexing_colors <- c("red" = "#DF536B",
+                           "blue" = "#2297E6",
+                           "green" = "#61D04F",
+                           "orange" = "#F5C710",
+                           "gray" = "#9e9e9e") #R4
 
 
 colors_samples <- hue_pal()(8) #ggplot defaults
